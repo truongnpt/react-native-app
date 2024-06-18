@@ -1,0 +1,21 @@
+{
+  "name": "react-native-images-to-pdf",
+  "version": "0.2.1",
+  "summary": "Easily generate PDF files from images in React Native.",
+  "homepage": "https://github.com/Canciller/react-native-images-to-pdf#readme",
+  "license": "MIT",
+  "authors": "canciller <lopez.ojeda.gabriel.emilio@gmail.com> (https://github.com/Canciller)",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/Canciller/react-native-images-to-pdf.git",
+    "tag": "0.2.1"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

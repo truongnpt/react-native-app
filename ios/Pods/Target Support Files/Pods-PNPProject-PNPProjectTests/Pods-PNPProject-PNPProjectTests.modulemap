@@ -1,0 +1,6 @@
+module Pods_PNPProject_PNPProjectTests {
+  umbrella header "Pods-PNPProject-PNPProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

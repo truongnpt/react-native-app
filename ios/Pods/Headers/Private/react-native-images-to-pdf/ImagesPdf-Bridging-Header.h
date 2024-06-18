@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-images-to-pdf/ios/ImagesPdf-Bridging-Header.h
